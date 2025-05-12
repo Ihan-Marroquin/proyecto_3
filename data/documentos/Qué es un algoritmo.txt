@@ -1,0 +1,1 @@
+Un algoritmo es una secuencia finita de instrucciones para resolver problemas o realizar cálculos. Usado en informática, permite decisiones automatizadas. Expresado en un lenguaje formal, comienza con una entrada, produce una salida y termina. Derivado de al-Khwārizmī (825 d.C.), es fundamental en tecnologías modernas.

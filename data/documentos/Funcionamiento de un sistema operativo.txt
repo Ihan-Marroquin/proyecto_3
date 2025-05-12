@@ -1,0 +1,1 @@
+Un sistema operativo (SO) gestiona hardware y software. Ejemplos: Windows, Linux, macOS. Sus funciones incluyen gestión de procesos, memoria, archivos y dispositivos. Actúa como intermediario entre el usuario y la máquina, ejecutando aplicaciones y asegurando estabilidad. Núcleos como el kernel de Linux son su núcleo. La evolución ha mejorado multitarea y seguridad (TechTarget).

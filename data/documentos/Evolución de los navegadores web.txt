@@ -1,0 +1,1 @@
+Los navegadores comenzaron con World Wide Web (1990). Mosaic (1993) popularizó la web; Netscape (1994) introdujo JavaScript. Internet Explorer dominó hasta 2003. Safari (2003), Firefox (2004) y Chrome (2008) lideran hoy, con Chrome al 64.7% en 2024. Han mejorado velocidad, seguridad y compatibilidad con HTML5.

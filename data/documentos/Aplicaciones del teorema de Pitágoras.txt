@@ -1,0 +1,1 @@
+El teorema de Pitágoras (a² + b² = c²) calcula lados de triángulos rectángulos. Ejemplo: catetos 3, 4 → hipotenusa = 5. Se usa en arquitectura (rampas), navegación (distancias) y para clasificar triángulos.

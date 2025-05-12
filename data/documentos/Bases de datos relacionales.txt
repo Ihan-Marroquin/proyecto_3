@@ -1,0 +1,1 @@
+Las bases de datos relacionales organizan datos en tablas con filas y columnas, conectadas por claves. Codd (1970) estableció sus principios. Usan SQL para consultas. Ejemplo: una tabla de clientes vinculada a pedidos. Ventajas: escalabilidad, integridad. Se aplican en banca, comercio y más. Sistemas como MySQL y PostgreSQL son populares (Oracle).

@@ -1,0 +1,1 @@
+El álgebra lineal estudia vectores, matrices y transformaciones lineales. Los espacios vectoriales cumplen axiomas de suma y escalares. Las matrices representan transformaciones; los sistemas lineales se resuelven con eliminación gaussiana. Autovalores y autovectores son clave en diagonalización. Es fundamental en geometría, física e informática.

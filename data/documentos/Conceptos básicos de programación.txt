@@ -1,0 +1,1 @@
+Programar implica escribir instrucciones para computadoras. Conceptos clave: variables (almacenan datos), estructuras de control (if, bucles), funciones (tareas reutilizables) y algoritmos (pasos para resolver problemas). Lenguajes como Python y Java son populares. La programación se usa en apps, juegos y IA. Aprender requiere práctica y lógica (FreeCodeCamp).

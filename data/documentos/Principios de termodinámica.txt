@@ -1,0 +1,1 @@
+La termodinámica estudia energía, calor y trabajo. Sus leyes son: 0 (equilibrio térmico), 1 (conservación de energía), 2 (entropía aumenta en sistemas aislados), 3 (entropía cero a 0 Kelvin). Se aplica en motores, refrigeración y procesos químicos. Ejemplo: un motor convierte calor en trabajo, pero con pérdidas por entropía. Es fundamental en física e ingeniería (Britannica).
